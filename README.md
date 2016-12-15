@@ -1,3 +1,2 @@
-# vim-easy-encode
-encodig settings
-
+# vim-options-search
+search option

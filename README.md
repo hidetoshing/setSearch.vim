@@ -1,2 +1,2 @@
-# vim-options-search
-search option
+# setSearch
+setup search option

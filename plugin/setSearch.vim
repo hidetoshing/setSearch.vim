@@ -1,8 +1,8 @@
 
-if exists("g:loaded_options_search")
+if exists("g:loaded_setSearch")
   finish
 endif
-let g:loaded_options_search = 1
+let g:loaded_setSearch = 1
 
 let s:save_cpo = &cpo
 set cpo&vim
